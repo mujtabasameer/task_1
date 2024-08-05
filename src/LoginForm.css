@@ -1,0 +1,40 @@
+.login-box h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  form .forgot-password {
+    text-align: right;
+    margin-bottom: 20px;
+    color: #4A90E2;
+    cursor: pointer;
+  }
+  
+  .or {
+    margin: 20px 0;
+    color: #666;
+  }
+  
+  .signup {
+    margin-top: 20px;
+    color: #666;
+  }
+  
+  .signup a {
+    color: #4A90E2;
+    text-decoration: none;
+  }
+  

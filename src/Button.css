@@ -1,0 +1,17 @@
+.button {
+    padding:10px;
+    border:none;
+    background-color: #4A90E2;
+    color: white;
+    border-radius: 40px;
+    width: 100%;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.button.google-login,
+.button.facebook-login {
+  background-color: white;
+  border: 1px solid #ddd;
+  color: #333;
+}
